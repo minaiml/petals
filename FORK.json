@@ -1,0 +1,14 @@
+{
+  "fork": "minaiml/petals",
+  "source": "bigscience-workshop/petals",
+  "source_url": "https://github.com/bigscience-workshop/petals",
+  "commit": "22afba627a7eb4fcfe9418c49472c6a51334b8ac",
+  "branch": "main",
+  "fetched": "2026-09-18",
+  "upstream_license": "MIT",
+  "upstream_license_name": "MIT License",
+  "role": "cluster — collaborative inference over a swarm",
+  "note": "Forked at the commit below with its licence intact. Upstream is the source of truth; this fork is a pinned reference for the minaiml delivery catalogue.",
+  "estate_license": "not applicable — no estate code added to this fork",
+  "policy": "https://github.com/minaiml"
+}
